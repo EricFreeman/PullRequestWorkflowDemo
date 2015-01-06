@@ -1,0 +1,4 @@
+﻿namespace PullRequestWorkflow
+{
+    class AwesomeFeature { }
+}
